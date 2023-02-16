@@ -1,0 +1,9 @@
+namespace GitCheckpoint3
+{
+  class CheckHub
+  {
+    public CheckHub
+    {
+    }
+  }
+}
